@@ -1,0 +1,9 @@
+chr1	5	15	del	0	+
+chr1	22	23	ins	(ВСТАВКА)	+
+chr1	30	31	ins	(ВСТАВКА)	+
+chr2	20	30	del	0	+
+chr2	32	33	ins	(ВСТАВКА)	+
+chr4	2	10	inv	0	+
+chr4	12	22	del	0	+
+chr4	24	34	dup	0	+
+chr5	10	20	del	0	+
